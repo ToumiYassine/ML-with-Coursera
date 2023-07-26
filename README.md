@@ -1,7 +1,7 @@
 # ML-with-Coursera
 Final Project: Classification with Python
 
-In this notebook, you will practice all the classification algorithms that we have learned in this course.
+In this notebook, i have practiced all the classification algorithms that we have learned in this course.
 
 Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics learned in the course.
 
@@ -21,4 +21,4 @@ LogLoss
 Mean Absolute Error
 Mean Squared Error
 R2-Score
-Finally, you will use your models to generate the report at the end.
+Finally, I used models to generate the report at the end.
